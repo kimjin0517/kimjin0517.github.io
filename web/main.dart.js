@@ -35472,7 +35472,7 @@ var $async$nH=A.S(function(b,c){if(b===1)return A.T(c,r)
 while(true)switch(s){case 0:A.hs(a)
 p=t.N
 s=2
-return A.a_(A.awL(A.q_("http://155.230.134.251:50081/chatbot",0,null),B.a2.md(A.aq(["text",a],p,p),null)),$async$nH)
+return A.a_(A.awL(A.q_("http://155.230.134.251:50082/chatbot",0,null),B.a2.md(A.aq(["text",a],p,p),null)),$async$nH)
 case 2:o=c
 p=J.aF(B.a2.t4(0,A.aw_(A.auk(o.e).c.a.h(0,"charset")).dc(0,o.x),null),"response")
 $.nh().push(new A.kc($.aaA(),p))
