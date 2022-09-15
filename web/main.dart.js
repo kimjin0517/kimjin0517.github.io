@@ -35973,7 +35973,7 @@ k=g.ch
 j=g.cx
 i=g.cy
 o=g.f}s=2
-return P.Z(G.akg(P.mW("http://155.230.135.41:40001/cpbot",0,null),C.a0.l1(P.aq(["turn",p,"received",a4,"sending",h,"question",o,"next",n,"score_A",m,"score_B",l,"score_C1",k,"score_C2",j,"act",i],t.N,t.X),null)),$async$rk)
+return P.Z(G.akg(P.mW("http://155.230.135.41:30001/cpbot",0,null),C.a0.l1(P.aq(["turn",p,"received",a4,"sending",h,"question",o,"next",n,"score_A",m,"score_B",l,"score_C1",k,"score_C2",j,"act",i],t.N,t.X),null)),$async$rk)
 case 2:f=a6
 g=C.a0.p4(0,B.ajM(U.aiR(f.e).c.a.h(0,"charset")).df(0,f.x),null)
 e=J.at(g)
