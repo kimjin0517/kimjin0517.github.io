@@ -90,20 +90,11 @@ content:
   - title: DOMESTIC CONFERENCES (IN KOREAN)
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Lee, J., Lee, M. (2023). Utilizing Artificial Intelligence for Battlefield Situation Recognition. Korea Institute of Military Science and Technology (KIMST).
+      - Jang. D., Kim. J., Lee. M. (2023). A Self-Guided Approach to Enhance Korean Text Generation in Writing Assistants. The Korea Society of Computer and Information (KSCI).
   
   - title: PROJECTS # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Institute of Information & communications Technology Planning & Evaluation
-        description: | # this will include new lines to allow paragraphs
-          - Research on Innovative Technologies for Prediction Intelligence Based on Complex Information, Jan. 2021 - Dec. 2023.
-          - Development of Intelligent SW Technology for Medical Data Analysis, Sep. 2020 - Feb. 2021.
-         
-
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
