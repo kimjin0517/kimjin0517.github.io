@@ -6,9 +6,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Junwon Lee
-title: Ph.D. student
-email: zini9405@gmail.com
+name: Jinsoo Kim
+title: Master Student
+email: jinsoou0517@gmail.com
 # email_title: Email (Email title override)
 # phone: +82 10-5487-4484
 # phone_title: Phone (Phone title override)
@@ -27,7 +27,7 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username: zini9405
+github_username: kimjin0517
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -38,7 +38,7 @@ github_username: zini9405
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # orcid_username: 0000-0000-0000-0000
-googlescholar_username: 9bsecQIAAAAJ&hl=ko
+# googlescholar_username: 9bsecQIAAAAJ&hl=ko
 
 # Additional icon links
 # additional_links:
@@ -58,19 +58,14 @@ googlescholar_username: 9bsecQIAAAAJ&hl=ko
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/Junwon.jpeg
+about_profile_image: images/Jinsu.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am a Ph.D. student at [KNU Vision & Learning Lab](https://sites.google.com/view/kvl), receiving guidance from Prof. <mark>Heechul Jung</mark>. My current research interests focus on Video Recognition, Domain Adaptation, and Timeseries Analysis. Furthermore, I am also interested in applying these technologies to Medical Image Analysis.
+  Hello! I am a Master student at [KNU Multimodal Language & Cognition Lab](https://sites.google.com/view/mlc-lab), receiving guidance from Prof. <mark>Hoyoung Jung</mark>. My current research interests focus on sLLM, Chatbot for domain-specific and prompt engineering. Currently, I'm also interest in anormaly detections and medical data analysis.
 
-  Besides research, I am also interested in watching movies and playing games.
-    - Harry Potter series
-    - Teamfight Tactics
-  
-# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-#   - Lists
-#   - Tables
-#   - <a href="google.com">Links</a>
-#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Besides research, I'm intereting in building anything.
+    - knitting
+    - yarn
+    - building figure
 
 content:
   - title: EDUCATION
@@ -81,49 +76,21 @@ content:
         # sub_title: Integrated Master's & Ph.D in Artificial Intelligence, KNU
         # caption: Dec. 2023 - Current, Prof. Heechul Jung
         description: | # this will include new lines to allow paragraphs
-          - Integrated Master's & Ph.D in Artificial Intelligence, KNU
-          - Dec. 2023 - Current, Prof. Heechul Jung
-          - Sep. 2020 - Nov. 2023, Prof. Minho Lee
+          - Integrated Master's in Artificial Intelligence, KNU
+          - Dec. 2023 - Current, Prof. Hoyoung Jung
+          - Mar. 2022 - Nov. 2023, Prof. Minho Lee
       - layout: left
         title: Kyungpook National University
         # sub_title: B.S. in Mathematics and Electronic Engineering (Double Major), KNU
         # caption: Mar. 2015 - Aug. 2020
         description: | # this will include new lines to allow paragraphs
-          - B.S. in Mathematics and Electronic Engineering (Double Major), KNU
-          - Mar. 2015 - Aug. 2020, Prof. Aeryeong Seo
+          - B.S. in Electronic Engineering, KNU
+          - Mar. 2016 - Feb. 2022, Prof. Aeryeong Seo
 
-  - title: INTERNATIONAL JOURNAL
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Hwang, K*., Lee, J*., Jalali, A., & Lee, M. (2023). Predicting the Refrigerant Amounts across Air Conditioners with a Domain Adaptive Lightweight Transformer. IEEE Transactions on Consumer Electronics. (* equal contributions)
-      - Baek, S., Kim, J., Lee, J., & Lee, M. (2023). Implementation of a Virtual Assistant System Based on Deep Multi-modal Data Integration. Journal of Signal Processing Systems, 1-11.
-      
-  - title: INTERNATIONAL CONFERENCES
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Lee, J., Hwang, K., Kwak, M. & Lee, M. (2022). Domain adaptation training of a transformer. IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), pp. 1–5.
-      
   - title: DOMESTIC CONFERENCES (IN KOREAN)
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Lee, J., Lee, M. (2023). Utilizing Artificial Intelligence for Battlefield Situation Recognition. Korea Institute of Military Science and Technology (KIMST).
-      - Lee, J., Lee, M. (2023). Artificial Intelligence to recognize battlefield situation. COGNITIVE SCIENCE.
-      - Lee, J., Lee, M. (2022). Memory-augmented Video Understanding for capturing temporal context. COGNITIVE SCIENCE.
-
-  - title: PATENT (IN KOREAN)
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Lee, M., Lee, J., Bae, J. (2021). Online Action Proposal Generation Method and Action Proposal Generation Device Using Spatio-Temporal Attention Networks. KR Patent 10-2021-0190265
-      - Lee, M., Lee, J., Park, H. (2021). Region DeIVE Pre-Learning Method with Self-Attention Towards Visual Question Answering and Pre-Learning Device Performing the Same. KR Patent 10-2021-0182951
-      - Lee, M., Lee, J., Park, T. (2021). Multi-Model Hierarchical Reasoning Method Based on Cognitive Behavioral Cycle, and Device for Performing It. KR Patent 10-2021-0162397
-  
-  - title: SOFTWARE (IN KOREAN)
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Lee, M., Lee, J. (2023). Distribution Improvement Network Domains. KR Software C-2023-061726
-      - Lee, M., Lee, J. (2023). Detection of Sensor Data Errors with AI. KR Software C-2023-061725
-
-
   
   - title: PROJECTS # Title for the section
     layout: list # Type of content section (list/text)
@@ -142,30 +109,18 @@ content:
                       # other value (or no value) means no border will be displayed
         title: National Research Foundation of Korea 
         description: | # this will include new lines to allow paragraphs
-          - Exploration of Problem-Solving Educational Content Using an Artificial Intelligence Platform, Jul. 2023 - Dec. 2023.
-          - Establishment of an AI Solution Consulting Process to Activate Industry-Academia-Research Cooperation, Sep. 2022 - Jan. 2023.
-          - Construction of a Metaverse Virtual Library Using Deep Learning-Based Deciphering of Traditional Records, Aug. 2022 - Feb. 2024.
-          - Creating, Utilizing, and Augmenting Knowledge Through Conversation with an Artificial Intelligence Agent, Mar. 2022 - Aug. 2024.
-          - Recognition and Deciphering of Traditional Record Characters Using Deep Learning Technology, Mar. 2021 - Jul. 2021.
-          
+          - Open Domain Knowledge Service Chatbot Development,  Mar. 2023 -
+          - Decoding traditional records based on deep learning to build a metaverse virtual vow, Mar. 2022 -
+          - Discovering problem-solving educational contents using AI platform, Jul. 2023 - Dec. 2023.
+          - Establish AI solution consulting process for industry/academia/research activities, Sep. 2022 - Jul. 2023.
+          - AI agents to create, utilize, and augment knowledge through conversations, Mar. 2022. - Sep 2023.
+          - Recognizing and deciphering traditional written characters using deep learning technology, Jan. 2021 - Jul. 2021.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Agency for Defense Development
+        title: Institute for Information & communication Technology Planning & evaluation
         description: | # this will include new lines to allow paragraphs
-          - Research on Video Target Recognition Technology Based on Non-Invasive BCI, Apr. 2023 - Feb. 2024.
-          - Research on Automatic Generation of Report Sentences Through Situation Awareness (MX-41), Jan. 2023 - Dec. 2022.
-      
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: LG Electronics Inc.
-        description: | # this will include new lines to allow paragraphs
-          - Development of a Universal Model for Refrigerant Shortage Classification Using Artificial Intelligence, Jan. 2024 - Dec. 2024.
-          - Optimal Operation Algorithm of Air Conditioners for Energy Saving and Comfort in Space Using Reinforcement Learning, April. 2023 - April. 2023.
-          - Technology for Improving the Accuracy of Refrigerant Quantity Detection, Dec. 2022 - Nov. 2023.
-          - Development of Air Conditioner Auto-Operation Logic and Lightweight Model Based on Customer Usage Pattern Learning, Sep. 2022 - Sep. 2023.
-          - Refrigerant Quantity Detection Technology, Sep. 2021 - Aug. 2022.
+          - Research and development of intelligent interaction technology that understands user intent and context, Oct. 2020 - Dec. 2021.
   
   # - title: A Little More About Me
   #   layout: text
